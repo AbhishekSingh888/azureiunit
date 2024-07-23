@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<objects>
+   <object name="GENPROC" type="*MODULE">
+      <package name="ab.repository.imported.tests">
+         <testcase name="T1_DIVIDE"/>
+         <testcase name="T1_SUBTRACT"/>
+         <testcase name="TEST1_ADD"/>
+         <testcase name="TEST1_DIVIDE"/>
+         <testcase name="TEST1_MULTIPLY"/>
+         <testcase name="TEST1_SUBTRACT"/>
+      </package>
+   </object>
+</objects>

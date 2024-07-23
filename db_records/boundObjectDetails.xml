@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<objects>
+   <object attribute="RPGLE" library="IUNDEMO" name="GENPROC" sourcefile="QRPGLESRC" sourcelibrary="IUNDEMS" sourcename="GENPROC" type="*MODULE">
+      <modules/>
+   </object>
+   <object attribute="RPGLE" library="IUNDEMO" name="GENPROC" sourcefile="QRPGLESRC" sourcelibrary="IUNDEMS" sourcename="GENPROC" type="*MODULE">
+      <modules/>
+   </object>
+   <object attribute="RPGLE" library="IUNDEMO" name="GENPROC" sourcefile="QRPGLESRC" sourcelibrary="IUNDEMS" sourcename="GENPROC" type="*MODULE">
+      <modules/>
+   </object>
+   <object attribute="RPGLE" library="IUNDEMO" name="GENPROC" sourcefile="QRPGLESRC" sourcelibrary="IUNDEMS" sourcename="GENPROC" type="*MODULE">
+      <modules/>
+   </object>
+   <object attribute="RPGLE" library="IUNDEMO" name="GENPROC" sourcefile="QRPGLESRC" sourcelibrary="IUNDEMS" sourcename="GENPROC" type="*MODULE">
+      <modules/>
+   </object>
+   <object attribute="RPGLE" library="IUNDEMO" name="GENPROC" sourcefile="QRPGLESRC" sourcelibrary="IUNDEMS" sourcename="GENPROC" type="*MODULE">
+      <modules/>
+   </object>
+</objects>

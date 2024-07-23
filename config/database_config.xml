@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<configuration>
+   <setup connectArcad="true" useRepository="true"/>
+   <url>http://10.5.6.209:5255</url>
+   <username>asingh</username>
+   <password>0d41089b82437d6b54e33dea5b20d0602abd1efa33fe</password>
+   <servername>10.5.6.11</servername>
+   <instance>AD</instance>
+   <codecoveragepath>/home/ArcadiUnit/AB/CCReports/</codecoveragepath>
+   <repository aspname="*SYSTEM" description="" identifier="168" initializationdate="2024-07-19" initialized="true" lastsynchronizationdate="2024-07-19-07.54.09.475000" name="AB" version="*NONE" versionselected="false">
+      <libraries>
+         <objectlibraries>
+            <objectlibrary name="IUNDEMS" order="1"/>
+            <objectlibrary name="IUNDEMO" order="2"/>
+         </objectlibraries>
+         <sourcelibraries>
+            <sourcelibrary name="IUNDEMS" order="1"/>
+            <sourcelibrary name="IUNDEMO" order="2"/>
+         </sourcelibraries>
+         <executionlibraries>
+            <executionlibrary name="IUNDEMS" order="1"/>
+            <executionlibrary name="IUNDEMO" order="2"/>
+         </executionlibraries>
+      </libraries>
+   </repository>
+</configuration>
